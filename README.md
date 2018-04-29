@@ -13,6 +13,8 @@ Cite this paper:
 ```
 
 ## Usage:
+**IMPORTANT NOTE: Our code is not compatible with new versions of tensorflow, so please use tensorflow-1.0.0 to run our codes.**
+
 ### STD:
 Command ```python main.py {--[option1]=[value1] --[option2]=[value2] ... }```
 
