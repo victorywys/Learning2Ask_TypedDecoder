@@ -1,6 +1,6 @@
 # Learning2Ask_TypedDecoder
 ---
-The code for the paper "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders" on ACL2018
+The code for the paper [Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders](https://arxiv.org/pdf/1805.04843.pdf) on ACL2018
 
 Cite this paper:
 ```
