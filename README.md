@@ -12,6 +12,8 @@ Cite this paper:
 }
 ```
 
+You can download our data [here](http://coai.cs.tsinghua.edu.cn/hml/dataset/). Press ctrl+f and search for "Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders" and you can find the link to our dataset.
+
 ## Usage:
 **IMPORTANT NOTE: Our code is not compatible with new versions of tensorflow, so please use tensorflow-1.0.0 to run our codes.**
 
